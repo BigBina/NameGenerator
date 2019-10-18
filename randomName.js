@@ -25,6 +25,11 @@ var h2 = document.querySelector("h2"); //The winner's name appears
 
 function insert(){
     students.push(nameOfStudent.value);
+    clear();
+}
+
+function clear(){
+    nameOfStudent.value = "";
 }
 
 generate.addEventListener("click", function()
