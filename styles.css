@@ -3,5 +3,5 @@ img{
     height: auto;
 }
 body{
-    background: linear-gradient(to right, #005aa7, #ffffff, #005aa7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(to right,#078bff, #c9e6ff,#ffffff, #ffffff,#ffffff,#c9e6ff, #078bff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
